@@ -33,7 +33,7 @@ End of the advanced course design HTML5 and CSS3 Alura, applying advanced featur
  - Keyframes and animations
  - 3D Perspective
  - Dynamic pseudo-classes and Strays
- - Pseudoelementos
+ - Pseudo-elements
  - Forms Standards
  - Semantic HTML5
 
