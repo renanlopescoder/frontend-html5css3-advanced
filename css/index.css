@@ -65,26 +65,22 @@ body{
 }
 .palavras-home,
 .titulo-principal{
+	-webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
 }
-.palavras-home{
-    -webkit-transform-style: preserve-3d;
-            transform-style: preserve-3d;
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    top: 0;
-    left: 0;
-}
+
 .palavra-home{
   font-family: "Shadows Into Light", cursive;
   font-weight: bold;
   font-size: 400%;
   color: rgb(210,210,255);
   position: absolute;
+	-webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
 	-webkit-animation: palavra-home 2s; 
 					animation: palavra-home 2s; 
 }
+
 
 @-webkit-keyframes palavra-home{
 	from{
