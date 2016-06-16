@@ -4,7 +4,7 @@
 
 ##Projeto em HTML5 CSS3##
 
-Projeto ilustrativo desenvolvido em HTML5 e CSS3 aplicando recursos avançados do CSS3 sem uso de JavaScrpt para iteragir com o usuário dinâmicamente, uso de keyframes no desenvolvimento de animações, uso de pseudo-classes e pseudo-elementos para interagir com o usuário e ter uma aparencia mais sofisticada sem prejudicar exponencialmente seu desempenho, uso de cálculos com a função "calc()" do CSS3 para evitar tamanhos com números mágicos facilitando leitura e manutenção do código, uso cuidadoso dos seletores avançados do CSS3 para ter maior poder e controle sobre os elementos sem perder desempenho e legibilidade, este projeto foi desenvolvido para motor de renderização webkit ( Google Chrome ) com fallback,
+Projeto ilustrativo desenvolvido em HTML5 e CSS3 aplicando recursos avançados do CSS3 sem uso de JavaScript para iteragir com o usuário dinâmicamente, uso de keyframes no desenvolvimento de animações, uso de pseudo-classes e pseudo-elementos para interagir com o usuário e ter uma aparencia mais sofisticada sem prejudicar exponencialmente seu desempenho, uso de cálculos com a função "calc()" do CSS3 para evitar tamanhos com números mágicos facilitando leitura e manutenção do código, uso cuidadoso dos seletores avançados do CSS3 para ter maior poder e controle sobre os elementos sem perder desempenho e legibilidade, este projeto foi desenvolvido para motor de renderização webkit ( Google Chrome ) com fallback,
 
 ### Principais Conceitos Aplicados no Projeto ###
  - Keyframes e animações
